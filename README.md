@@ -1,1 +1,1 @@
-# habit-tracker-privacy-
+# habit-tracker-policy
